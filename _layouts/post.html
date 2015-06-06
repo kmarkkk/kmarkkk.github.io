@@ -64,15 +64,8 @@ layout: default
   </div>
   
   {% if site.comments %}
-    <div class="comments">
-        <a href="javascript:;" class="load-view">View Comments...</a>
-        <div id="disqus_thread"></div>
-        <div id="g-comments"></div>
-    </div>
-  {% endif %}
-
-  <div id="disqus_thread"></div>
-<script type="text/javascript">
+    <div id="disqus_thread"></div>
+    <script type="text/javascript">
     /* * * CONFIGURATION VARIABLES * * */
     var disqus_shortname = 'wenxuannecture';
     
@@ -82,6 +75,8 @@ layout: default
         dsq.src = '//' + disqus_shortname + '.disqus.com/embed.js';
         (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
     })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript" rel="nofollow">comments powered by Disqus.</a></noscript>
+    </script>
+  {% endif %}
+
+
 </div>
