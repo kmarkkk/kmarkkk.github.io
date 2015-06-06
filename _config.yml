@@ -5,8 +5,8 @@ email: wenxuancai1992@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Hi, I am a student from University of California, Berkeley. 
   Welcome to my Blog!
-baseurl: "/gaya" # the subpath of your site, e.g. /blog/
-url: "http://http://kmarkkk.github.io" # the base hostname & protocol for your site
+baseurl: "/" # the subpath of your site, e.g. /blog/
+url: "http://kmarkkk.github.io" # the base hostname & protocol for your site
 logourl: /assets/images/ml.png # Site logo
 author: "Wenxuan Cai"
 author_thumbnail: "/assets/images/me.jpg" # Author avatar
