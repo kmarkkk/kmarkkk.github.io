@@ -1,0 +1,63 @@
+# Site settings
+title: "Wenxuan's Necturne"
+# tagline: And Tagline
+email: wenxuancai1992@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+  Hi, I am a student from University of California, Berkeley. 
+  Welcome to my Blog!
+baseurl: "/gaya" # the subpath of your site, e.g. /blog/
+url: "http://127.0.0.1:4000" # the base hostname & protocol for your site
+logourl: /assets/images/ml.png # Site logo
+author: "Wenxuan Cai"
+author_thumbnail: "/assets/images/me.jpg" # Author avatar
+timezone: America/Los_Angeles
+excerpt_separator: <!--more-->
+# Theme customization - please change from the defaults!
+theme:
+  # Color for sidebar bar, links, etc
+  highlight_color: "#205081" #205081" # "#272935"
+  # Social media links, leave blank to ignore
+  social: 
+    github: kmarkkk
+    twitter: kmarks107
+    facebook: wenxuan.cai.5
+    gplus: +114734940890320945454
+    # dribble: gayanvirajith
+    #pinterest: gayanvirajith
+
+  # Enable share buttons on post footer
+  show_share_buttons: true
+
+  # Show author picure, name and social links on post footer
+  show_author_info: true
+
+  # Disqus comments manager - shortname
+  # disqus_shortname: gaya-webcreate
+
+  # Google Analytics/Webmaster key, leave blank to ignore
+  google_analytics_key: 
+  google_webmaster_key: 
+
+# Build settings
+markdown: kramdown
+
+# Permalinks
+permalink:        pretty
+
+# Pagination config
+paginate: 5
+
+# Files/Folders to be excluded from generated _site folder
+exclude: 
+  - CNAME
+  - Gemfile
+  - Rakefile
+  - README.md
+  - .gitignore
+  - .sass-cache
+  - Gemfile.lock
+
+# Sass conversion configs
+sass:
+  sass_dir: assets/css/_sass
+  style: :compressed
