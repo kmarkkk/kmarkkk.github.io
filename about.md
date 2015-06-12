@@ -10,7 +10,7 @@ Hi, I am Wenxuan Cai, a student from University of Caliornia, Berkeley, and I or
 
 I studied Computer Science during my undergrad and grad life. I am passionated about machine learning and AI. In this site I will post blogs on CS techniques, life, and cool stuff.
 
-####[Technical Profile]({{ site.techprofilepath }})
+###[**Technical Profile**]({{ site.techprofilepath }})
 
 ### 关于作者
 
