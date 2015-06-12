@@ -8,6 +8,7 @@ description: > # this means to ignore newlines until "baseurl:"
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://wenxuancai.com" # the base hostname & protocol for your site
 logourl: /assets/images/ml.png # Site logo
+techprofilepath: /assets/techprofile.pdf
 author: "Wenxuan Cai"
 author_thumbnail: "/assets/images/me.jpg" # Author avatar
 timezone: America/Los_Angeles
