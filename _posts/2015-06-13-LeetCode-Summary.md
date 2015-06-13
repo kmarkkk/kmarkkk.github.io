@@ -17,7 +17,7 @@ permalink: leetcode_summary
 1.	Wildcard Matching
 __复杂DP__
 2.	Scramble String
-复杂DP__
+__复杂DP__
 3. Best Time to Buy and Sell Stock IV
 __复杂DP__
 4. Palindrome Partitioning II
