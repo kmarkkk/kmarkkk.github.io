@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LeetCode Summary"
+title:  "LeetCode十大难题"
 description:
 categories:
 - Tech
