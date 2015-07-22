@@ -6,8 +6,8 @@ description: > # this means to ignore newlines until "baseurl:"
   Hi, I am a student from University of California, Berkeley. 
   Welcome to my Blog!
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://wenxuancai.com" # the base hostname & protocol for your site
-# url: http://127.0.0.1:4000
+# url: "http://wenxuancai.com" # the base hostname & protocol for your site
+url: http://127.0.0.1:4000
 logourl: /assets/images/ml.png # Site logo
 techprofilepath: /assets/techprofile.pdf
 author: "Wenxuan Cai"
